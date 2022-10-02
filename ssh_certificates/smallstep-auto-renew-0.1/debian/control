@@ -4,12 +4,14 @@ Priority: optional
 Maintainer: Edwin Clement <edwinclement08@gmail.com>
 Build-Depends: debhelper-compat (= 12)
 Standards-Version: 4.4.1
-Homepage: <insert the upstream URL, if relevant>
+Homepage: https://github.com/edwinclement08/scripts/tree/master/ssh_certificates/smallstep-auto-renew-0.1
 #Vcs-Browser: https://salsa.debian.org/debian/smallstep-auto-renew
 #Vcs-Git: https://salsa.debian.org/debian/smallstep-auto-renew.git
 
 Package: smallstep-auto-renew
 Architecture: all
 Depends: ${misc:Depends}
-Description: <insert up to 60 chars description>
- <insert long description, indented with spaces>
+Description: A simple helper for auto-renewing SmallStep CA Host certifcates
+ Auto Renewer for SmallStep CA SSH certifcates
+
+

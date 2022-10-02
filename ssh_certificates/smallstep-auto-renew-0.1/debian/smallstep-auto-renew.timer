@@ -1,0 +1,13 @@
+[Unit]
+Description=Run smallstep-auto-renew every 12 hours
+RefuseManualStart=no  # Allow manual starts
+RefuseManualStop=no   # Allow manual stops
+
+[Timer]
+Persistent=true
+OnBootSec=120
+OnCalendar=*-*-* 00:00:00
+Unit=smallstep-auto-renew.service
+
+[Install]
+WantedBy=timers.target

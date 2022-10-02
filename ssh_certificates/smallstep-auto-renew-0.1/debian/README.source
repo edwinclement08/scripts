@@ -1,10 +1,7 @@
 smallstep-auto-renew for Debian
 ------------------------------
 
-<this file describes information about the source package, see Debian policy
-manual section 4.14. You WILL either need to modify or delete this file>
-
-
+A simple helper for auto-renewing SmallStep CA Host certifcates
 
  -- Edwin Clement <edwinclement08@gmail.com>  Sun, 02 Oct 2022 19:59:32 +0530
 

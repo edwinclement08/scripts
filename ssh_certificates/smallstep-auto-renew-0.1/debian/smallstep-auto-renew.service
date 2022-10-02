@@ -1,0 +1,9 @@
+[Unit]
+Description=Auto Renew service for Step CA Host certificates
+
+[Service]
+Type=simple
+ExecStart=/usr/bin/smallstep-auto-renew.sh
+
+[Install]
+WantedBy=default.target
