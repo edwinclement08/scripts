@@ -1,0 +1,10 @@
+Package: smallstep-auto-renew
+Version: 0.1-1
+Architecture: all
+Maintainer: Edwin Clement <edwinclement08@gmail.com>
+Installed-Size: 19
+Section: utils
+Priority: optional
+Homepage: https://github.com/edwinclement08/scripts/tree/master/ssh_certificates/smallstep-auto-renew-0.1
+Description: Simple helper for auto-renewing SmallStep CA Host certificates
+ Auto Renewer for SmallStep CA SSH certificates

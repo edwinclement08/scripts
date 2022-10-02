@@ -1,0 +1,5 @@
+1e199f476ce01e48a9f7b6c9cae393fe  lib/systemd/system/smallstep-auto-renew.service
+0e702cfd1b07ddb4c10b5217239addd4  lib/systemd/system/smallstep-auto-renew.timer
+52bc94fd23e577db9b2d6fdf2152368e  usr/bin/smallstep-auto-renew
+bb7a365b6028c98055f2442f65626dfb  usr/share/doc/smallstep-auto-renew/changelog.Debian.gz
+03da72f5bd3c6a0338d3220802b106ef  usr/share/doc/smallstep-auto-renew/copyright
