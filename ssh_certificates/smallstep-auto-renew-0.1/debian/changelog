@@ -1,0 +1,5 @@
+smallstep-auto-renew (0.1-1) unstable; urgency=medium
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Edwin Clement <edwinclement08@gmail.com>  Sun, 02 Oct 2022 19:59:32 +0530
